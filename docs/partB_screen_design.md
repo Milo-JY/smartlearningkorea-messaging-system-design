@@ -52,10 +52,10 @@ Provider별로 필요한 인증 정보 입력 폼이 동적으로 표시된다.
 
 ### CloudMsg
 
-Access Key
-Secret Key
-Sender Phone Number
-Sender Profile ID
+- Access Key
+- Secret Key
+- Sender Phone Number
+- Sender Profile ID
 
 ### SendTalk
 
