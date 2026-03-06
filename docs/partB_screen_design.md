@@ -59,8 +59,8 @@ Provider별로 필요한 인증 정보 입력 폼이 동적으로 표시된다.
 
 ### SendTalk
 
-API Key
-Default Sender Phone
+- API Key
+- Default Sender Phone
 
 ---
 
